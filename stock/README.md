@@ -28,3 +28,24 @@ Output: 0
 > **Explanation:**
 >
 >   In this case, no transaction is done, i.e. max profit = 0.
+
+## Solution
+### Python
+#### Help
+![help](screenshots/py-help.JPG)
+
+#### Usage
+3 calls handle inputs.
+Third call generates an error.
+
+![usage](screenshots/py-usage.JPG)
+
+### C#
+#### On startup
+![initial](screenshots/cs-initial.JPG)
+
+#### Using custom value
+![custom](screenshots/cs-custom.JPG)
+
+#### On error
+![error](screenshots/cs-error.JPG)

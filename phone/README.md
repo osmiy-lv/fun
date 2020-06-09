@@ -22,3 +22,24 @@ Output: ["ad", "ae", "af", "bd", "be", "bf", "cd", "ce", "cf"].
 > **Note:**
 >
 > Although the above answer is in lexicographical order, your answer could be in any order you want.
+
+## Solution
+### Python
+#### Help
+![help](screenshots/py-help.JPG)
+
+#### Usage
+Single call handle 3 inputs.
+Second one generates an error.
+
+![usage](screenshots/py-usage.JPG)
+
+### C#
+#### On startup
+![initial](screenshots/cs-initial.JPG)
+
+#### Using custom value
+![custom](screenshots/cs-long.JPG)
+
+#### On error
+![error](screenshots/cs-error.JPG)

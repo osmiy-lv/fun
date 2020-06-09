@@ -36,3 +36,20 @@ Output: 3
 > The answer is "wke", with the length of 3.
 >
 > Note that the answer must be a **substring**, "pwke" is a subsequence and not a substring.
+
+## Solution
+### Python
+#### Help
+![help](screenshots/py-help.JPG)
+
+#### Usage
+Single call handle 2 inputs.
+
+![usage](screenshots/py-usage.JPG)
+
+### C#
+#### On startup
+![initial](screenshots/cs-initial.JPG)
+
+#### Using custom value
+![custom](screenshots/cs-custom.JPG)
