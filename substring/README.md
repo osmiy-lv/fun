@@ -39,6 +39,10 @@ Output: 3
 
 ## Solution
 ### Python
+
+#### Realization
+Algorithm [main.py::handle_string](./python/main.py)
+
 #### Help
 ![help](screenshots/py-help.JPG)
 
@@ -48,6 +52,10 @@ Single call handle 2 inputs.
 ![usage](screenshots/py-usage.JPG)
 
 ### C#
+
+#### Realization
+Algorithm [CSubStr.cs::CSubStr::MaxSum](./c-sharp/CSubStr.cs)
+
 #### On startup
 ![initial](screenshots/cs-initial.JPG)
 

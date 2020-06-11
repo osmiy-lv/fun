@@ -15,6 +15,10 @@ Output: 6
 
 ## Solution
 ### Python
+
+#### Realization
+Algorithm [main.py::find_max](./python/main.py)
+
 #### Help
 ![help](screenshots/py-help.JPG)
 
@@ -25,6 +29,10 @@ Second call generates an error.
 ![usage](screenshots/py-usage.JPG)
 
 ### C#
+
+#### Realization
+Algorithm [CSubArray.cs::CSubArray::MaxSum](./c-sharp/CSubArray.cs)
+
 #### On startup
 ![initial](screenshots/cs-initial.JPG)
 

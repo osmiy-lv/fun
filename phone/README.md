@@ -25,6 +25,10 @@ Output: ["ad", "ae", "af", "bd", "be", "bf", "cd", "ce", "cf"].
 
 ## Solution
 ### Python
+
+#### Realization
+Algorithm [main.py::handle_phone](./python/main.py)
+
 #### Help
 ![help](screenshots/py-help.JPG)
 
@@ -35,6 +39,10 @@ Second one generates an error.
 ![usage](screenshots/py-usage.JPG)
 
 ### C#
+
+#### Realization
+Algorithm [CPhone2Str.cs::Phone::Translate](./c-sharp/CPhone2Str.cs)
+
 #### On startup
 ![initial](screenshots/cs-initial.JPG)
 

@@ -31,6 +31,10 @@ Output: 0
 
 ## Solution
 ### Python
+
+#### Realization
+Algorithm [main.py::find_profit](./python/main.py)
+
 #### Help
 ![help](screenshots/py-help.JPG)
 
@@ -41,6 +45,10 @@ Third call generates an error.
 ![usage](screenshots/py-usage.JPG)
 
 ### C#
+
+#### Realization
+Algorithm [CStock.cs::CStock::Profit](./c-sharp/CStock.cs)
+
 #### On startup
 ![initial](screenshots/cs-initial.JPG)
 
